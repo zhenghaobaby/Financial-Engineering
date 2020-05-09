@@ -47,3 +47,4 @@ How can you upload your own summary?
 
 - you can create a new type classification.
 
+- For every file, please use markdown. you can use Typora to write this.
