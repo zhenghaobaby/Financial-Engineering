@@ -1,6 +1,0 @@
-### FIX INCOME AND DERIVATIVES
-
----
-
-- 
-
